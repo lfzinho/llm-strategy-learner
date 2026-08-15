@@ -1,0 +1,10 @@
+numpy
+matplotlib
+instructor
+pydantic
+google-genai
+openai
+tqdm
+networkx
+pandas
+python-dotenv
